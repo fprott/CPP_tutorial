@@ -2,6 +2,9 @@
 
 ![https://ict.senecacollege.ca/~oop244/pages/images/evolution.png](https://ict.senecacollege.ca/~oop244/pages/images/evolution.png)
 
+![https://ittimepass.files.wordpress.com/2016/10/c.png?w=648&h=9999](https://ittimepass.files.wordpress.com/2016/10/c.png?w=648&h=9999)
+
+
 *Hier müsst ihr mir nur zuhören*
 
 CPP:
