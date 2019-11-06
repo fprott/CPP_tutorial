@@ -3,6 +3,7 @@
 ![https://ict.senecacollege.ca/~oop244/pages/images/evolution.png](https://ict.senecacollege.ca/~oop244/pages/images/evolution.png)
 
 *Hier müsst ihr mir nur zuhören*
+
 CPP:
 * C++ hat sich stark richtung Perfmonce entwickelt
 * Weit weg vom Speicher den man nicht mehr richtig verwenden kann 
