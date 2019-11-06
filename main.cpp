@@ -52,6 +52,19 @@ void doCLoop(int num) {
 
 }
 
+//?Write down the function comment
+void doDLoop(int num) {
+    int i = 0;
+    for(true) { //!Do not change this!
+        if(num == ???) //fix this
+            break; //!This is a break! it stops a loop compleltly
+        if(i == 5):
+            cout << "I do not want to print anything in loop :" << i << endl; 
+            continue; //!This is a continue. The code will stop here for this round of the loop. The next statments are not processed. But the next round of the loop will be handled as normal!
+        cout << "Loop number :" << i << endl; 
+
+    }
+}
 
 //!The following loops are BROKEN, correct them!
 /**
@@ -108,9 +121,32 @@ std::string giveMeACompliment(std::string compliment) { //?Why do we need to use
 
 int main(int argc, char *argv[]) {
     cout << "Ok, lets use some standard data types and control structures!" << endl;
+    
+    if(5 > 6){
+        cout << "5 > 6" << endl;
+    }else{
+        cout << "5 < 6" << endl;
+    }
+    
+    if(5==true){ //?What happens here? why?
+        cout << "This is actually true" << endl;
+    }
+    
+    //!This is a special kind of if else thing called a switch-case
+    
+    int any_value=2; //?Todo cahnge
+
+    switch(any_value) {
+        case 1: printf("a ist one\n"); break;
+        case 2: printf("a ist two\n"); break;
+        case 3: printf("a ist three\n"); break;
+        default: printf("a ist more than three\n"); break;
+    }
+    
+    cout << "Ok, lets do loops!" << endl;
     doALoop(10);
-    //doBLoop(10);
-    //doCLoop(10);
+    //doBLoop(10); //?TODO coment in!
+    //doCLoop(10); //?TODO coment in!
     if (loopOfDesaster() != 0) { //??Why can we make this comparision?
         cout << giveMeACompliment("very good") <<endl;
     }
