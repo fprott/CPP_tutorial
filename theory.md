@@ -1,6 +1,8 @@
 Ancient greeks wanted to figure out how the the world is made up.
 Acidentlly they described ways to describe to world/reality in structured ways.
 
+**Programming is philosphie (and math)!**
+
 ## How to structure something complex using simple forms?
 
 ![https://media.4teachers.de/images/thumbs/image_thumb.222.png](https://media.4teachers.de/images/thumbs/image_thumb.222.png) ![result.png](result.png)
