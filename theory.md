@@ -20,4 +20,4 @@ Acidentlly they described ways to describe to world/reality in structured ways.
 
 ![http://www.codeadventurer.de/wp-content/uploads/2017/01/java_lambda.jpg](http://www.codeadventurer.de/wp-content/uploads/2017/01/java_lambda.jpg)
 
-# You only need structure when the program gets complicated, but then it is too late to structure it! So start with structure even if there is no initial benefit! Also never become an extermist!
+# You only need structure when the program gets complicated, but then it is too late to structure it! So start with structure even if there is no initial benefit! Also never become an extermist (unless you are already using an extremistic language like scala, then it is "when in Rom")!
