@@ -12,9 +12,15 @@ Acidentlly they described ways to describe to world/reality in structured ways.
 ![https://midnightmediamusings.files.wordpress.com/2014/07/plato-cats.jpg](https://midnightmediamusings.files.wordpress.com/2014/07/plato-cats.jpg)
 ![https://miro.medium.com/max/650/0*8eypnMwaR35ohgso.png](https://miro.medium.com/max/650/0*8eypnMwaR35ohgso.png)
 
+Object Orientation **helps you think, it does not make the program faster or better! It just makes it structured!**
+
+![http://dreamstop.com/wp-content/uploads/2013/07/Uniform-dreams-702x336.jpg](http://dreamstop.com/wp-content/uploads/2013/07/Uniform-dreams-702x336.jpg)
+
+
 ## Inheritance and Prototyping (a la Goethe & Friends):
 
 ![https://www.wiemann-lehrmittel.de/shop/media/images/org/2889_1.jpg](https://www.wiemann-lehrmittel.de/shop/media/images/org/2889_1.jpg)
+![https://image.slidesharecdn.com/introductiontoobjectorientedprogramming-141212062931-conversion-gate01/95/introduction-to-object-oriented-programming-51-638.jpg?cb=1448026569](https://image.slidesharecdn.com/introductiontoobjectorientedprogramming-141212062931-conversion-gate01/95/introduction-to-object-oriented-programming-51-638.jpg?cb=1448026569)
 
 ## Functional Programming (a la Pythagoras, Leibniz, Euler)
 
