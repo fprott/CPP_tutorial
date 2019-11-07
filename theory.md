@@ -3,7 +3,7 @@ Acidentlly they described ways to describe to world/reality in structured ways.
 
 ## How to structure something complex using simple forms?
 
-![https://media.4teachers.de/images/thumbs/image_thumb.222.png](https://media.4teachers.de/images/thumbs/image_thumb.222.png)
+![https://media.4teachers.de/images/thumbs/image_thumb.222.png](https://media.4teachers.de/images/thumbs/image_thumb.222.png) ![result.png](result.png)
 
 ## Objekt Orientation (a la Plato):
 
